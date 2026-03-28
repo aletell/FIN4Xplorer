@@ -26,7 +26,7 @@
 		"js-file-download": "^0.4.8",
 		"jsonexport": "^3.0.1",
 		"moment": "^2.24.0",
-		"nanoid": "^2.1.6",
+		"nanoid": "^3.3.8",
 		"qrcode.react": "^0.9.3",
 		"react": "^16.8.6",
 		"react-addons-update": "^15.6.2",
